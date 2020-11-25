@@ -1,2 +1,2 @@
 # javascript-DOM-example
-Dice Challenge
+Dicee Challenge
